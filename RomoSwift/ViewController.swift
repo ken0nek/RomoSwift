@@ -24,7 +24,7 @@ class ViewController: UIViewController, RMCoreDelegate{
         
         RMCore.setDelegate(self)
         
-        // check
+        // Iを通常通りに使うこと
         let con = RMCoreControllerPID()
         con.I = 5
         println(con.I)

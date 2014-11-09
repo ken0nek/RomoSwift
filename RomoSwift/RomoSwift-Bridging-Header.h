@@ -3,7 +3,7 @@
 //
 
 #undef I
-#define I II // some substitution of I (like II, In, ∫)
+#define I II
 #undef I
 
 #import <RMCharacter/RMCharacter.h>
